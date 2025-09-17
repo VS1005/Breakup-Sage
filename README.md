@@ -1,6 +1,6 @@
 # Author :
 ## NAME : Vatsalya singh
-## BRANCH : Mechanical Engineering
+## DEPARTMENT : Mechanical Engineering
 ## UNIVERSITY : Indian Institute of Technology Guwahati ( IIT Guwahati )
 
 # 💔 Breakup-Sage
