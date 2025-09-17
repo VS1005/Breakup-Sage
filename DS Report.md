@@ -127,7 +127,6 @@
 * **Strengths:**
 
   * The hybrid agent selection system is robust and explainable.
-  * Fine-tuned LLaVA responds with contextually relevant, emotionally supportive, and agent-appropriate advice.
   * The multi-modal capability (text + images) is a notable advantage.
 
 * **Limitations:**
