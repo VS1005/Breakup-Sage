@@ -145,11 +145,3 @@ breakup-sage/
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.
 
----
-
-
-**Made with 💔 + 💡 to help you heal smarter**
-
----
-
-👉 Do you also want me to add a **ready-to-use Colab cell snippet** at the top of the README (so users can just copy-paste and run everything, including ngrok setup, in one go)?
