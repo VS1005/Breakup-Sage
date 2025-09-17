@@ -1,3 +1,8 @@
+# Author :
+## NAME : Vatsalya singh
+## BRANCH : Mechanical Engineering
+## UNIVERSITY : Indian Institute of Technology Guwahati ( IIT Guwahati )
+
 # 💔 Breakup-Sage
 
 *Intelligent healing for every heartbreak*
@@ -65,6 +70,7 @@ Most users don’t have a CUDA GPU locally. To make it simple, **we recommend ru
      ```
      /content/drive/MyDrive/llava_lora_finetune/
      ```
+     Drive link for downloading checkpoints folder : https://drive.google.com/drive/folders/17GCH6H-yBgYjvzu7AYh993TqUcX0F111?usp=sharing
 
 6. **Run Streamlit with ngrok**
 
