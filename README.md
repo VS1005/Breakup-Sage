@@ -10,10 +10,10 @@
 
 ---
 
-## ✨ Features
+## Features
 
-* 🧠 **Hybrid AI Agent Selection**: Combines rule-based analysis with LLM intelligence for optimal support matching
-* 🤗 **4 Specialized Recovery Agents**:
+* **Hybrid AI Agent Selection**: Combines rule-based analysis with LLM intelligence for optimal support matching
+* **4 Specialized Recovery Agents**:
 
   * **Therapist**: Emotional support and healing guidance
   * **Closure Specialist**: Understanding and acceptance assistance
@@ -26,9 +26,9 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
-### ⚠️ Important: Run on Google Colab
+### ⚠ Important: Run on Google Colab
 
 Most users don’t have a CUDA GPU locally. To make it simple, **we recommend running Breakup-Sage directly on Google Colab**. The app uses **ngrok** to create a public link so you can access the Streamlit interface in your browser.
 
@@ -80,7 +80,7 @@ Most users don’t have a CUDA GPU locally. To make it simple, **we recommend ru
 
 ---
 
-## 📋 Usage
+## Usage
 
 * **Launch on Colab** (as shown above)
 * **Describe your situation** or upload chat screenshots
@@ -94,7 +94,7 @@ Example:
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 Update model paths in `app.py`:
 
@@ -111,7 +111,7 @@ Checkpoint selection order:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 breakup-sage/
@@ -132,7 +132,7 @@ breakup-sage/
 
 ---
 
-## 📊 Performance
+## Performance
 
 ✅ Emotional state recognition
 ✅ Context-appropriate agent selection
@@ -141,17 +141,12 @@ breakup-sage/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file.
 
 ---
 
-## ⚠️ Disclaimer
-
-Breakup-Sage is designed for supportive guidance only. It does **not** replace professional mental health services. If you are experiencing severe depression, anxiety, or self-harm thoughts, please seek immediate professional help.
-
----
 
 **Made with 💔 + 💡 to help you heal smarter**
 
