@@ -107,7 +107,8 @@
 
 * **Human Review:**
 
-  * Most of the outputs i generated are up to the mark and i can clearly see the desried output.
+  * Most of the outputs i generated are up to the mark because i have tried it over differnet prompt with different situations and different lengths to find inconsistencies wherever possible.
+  * You can see the clear results with 2 diverse prompts in the video.
   * The initial sentiment analysis being done by the model for automatic agent selection is also very good and matches my expectations and the flow is beign maintained.
   * The prompt has really helped the model generalize to the downstream taks instead of the dataset on which it was fine-tuned on.
   * Inference time is a slight more than it should be because first we are doing sentiment analysis using LLM and then using defined rules and then deciding which agent to use and then generating th output. Before this feature of automatic agent selection the inference time was significantly less.
