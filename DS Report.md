@@ -5,7 +5,7 @@
 ### 1.1 Data
 
 * **Dataset Source:**
-  DailyDialog (Kaggle packaged copy) — was a high-quality, human-written multi-turn English dialogue corpus.
+  DailyDialog (Kaggle packaged copy)
 
 * **Why chosen:**
   It contained everyday conversations with utterance-level **dialogue-act** and **emotion** annotations, which made it suitable for training intent- and emotion-aware response agents.
@@ -107,12 +107,12 @@
 
 * **Human Review:**
 
-  * Most of the outputs i generated are up to the mark because i have tried it over differnet prompt with different situations and different lengths to find inconsistencies wherever possible.
+  * Most of the outputs i generated are up to the mark because i have tried it over different prompts with different situations and different lengths to find inconsistencies wherever possible.
   * You can see the clear results with 2 diverse prompts in the video.
   * The initial sentiment analysis being done by the model for automatic agent selection is also very good and matches my expectations and the flow is beign maintained.
   * The prompt has really helped the model generalize to the downstream taks instead of the dataset on which it was fine-tuned on.
   * Inference time is a slight more than it should be because first we are doing sentiment analysis using LLM and then using defined rules and then deciding which agent to use and then generating th output. Before this feature of automatic agent selection the inference time was significantly less.
-  * We can reduce this inference time by using a lightweight LLM or Graph neural networks for this sentiment analysis task maintaining accuracy and less compute requirement.
+  * We can reduce this inference time by using a lightweight LLM or Graph neural networks heavily finetuned for this sentiment analysis task maintaining accuracy and less compute requirement.
 
 * **Failure Zones:**
 
